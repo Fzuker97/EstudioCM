@@ -1,0 +1,15 @@
+/*NAV-BAR*/
+
+.bg-success{
+    background-image: var(--bs-gradient);
+}
+
+.dropdown-item:hover{
+    color: red;
+}
+
+
+
+#btnHome:hover{
+    color: white;
+}
